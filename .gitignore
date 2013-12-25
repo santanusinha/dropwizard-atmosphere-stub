@@ -2,4 +2,5 @@ target/
 logs/
 *.iml
 *.ipr
+*.iws
 .idea
