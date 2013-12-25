@@ -1,5 +1,7 @@
 ## Introduction
 
+Stub project for [Dropwizard](http://dropwizard.codahale.com/) example integrated with [Atmosphere](https://github.com/Atmosphere/atmosphere) rest-chat example.
+
 NOTE: The base for this is [dropwizard-atmosphere] (https://github.com/mgutz/dropwizard-atmosphere).
 
 CHANGES: Differences with the above:
@@ -8,9 +10,7 @@ CHANGES: Differences with the above:
 * Removed non-essential thing from config file
 * Forced non-blocking connector type in the service irrespective of what is set in the config
 
-How to use this: As the name suggects, use it as a stub.
-
-Stub project for [Dropwizard](http://dropwizard.codahale.com/) example integrated with [Atmosphere](https://github.com/Atmosphere/atmosphere) rest-chat example.
+How to use this: As the name suggests, use it as a stub.
 
 ## Overview
 
